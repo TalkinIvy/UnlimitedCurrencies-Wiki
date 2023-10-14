@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://spigotmc.org" target="_blank">
-    <img src="https://i.imgur.com/qmx6Hfu.png" alt="Image" style="width:40%;" />
+    <img src="https://i.imgur.com/CjNcyIa.png" alt="Image" style="width:40%;" />
   </a>
 </p>
 
